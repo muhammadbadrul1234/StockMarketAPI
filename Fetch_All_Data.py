@@ -9,8 +9,8 @@ print(table)
 
 
 ##write to file
-with open('data.txt', 'w') as f:
-    f.write(table)
+#with open('data.txt', 'w') as f:
+   # f.write(table)
 
 
 
